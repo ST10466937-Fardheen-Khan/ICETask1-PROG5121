@@ -12,6 +12,7 @@ This is a simple Java program that asks the user to enter two numbers and prints
 
 Enter first number: 3
 Enter second number: 7
+
 3
 4
 5
